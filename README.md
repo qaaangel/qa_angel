@@ -1,4 +1,4 @@
-# Oleksandra Angel
+# Alex Angel
 
 ![Header](https://github.com/qaaangel/qa_angel/blob/a73cf3d0ccb4b3397207f302aeffe47a77067761/assets/logo.png)
 ## I'm a QA Engineer
