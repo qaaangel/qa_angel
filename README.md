@@ -22,7 +22,7 @@
 
 - [Checklists](https://github.com/qa_angel/checklist)
 - [Test-Cases](https://github.com/qa_angel/test-cases)
-- [Bug-Reports](https://https://github.com/qaaangel/qa_angel/blob/85504e6c148109ace38c6379289ebd29daecb013/assets/BUG_REPORTS.pdf)
+- [Bug-Reports](https://github.com/qaaangel/qa_angel/blob/85504e6c148109ace38c6379289ebd29daecb013/assets/BUG_REPORTS.pdf)
 - [SQL Queries](https://github.com/qa_angel/SQL)
 - [Postman Collections](https://github.com/qa_angel/postman)
 
