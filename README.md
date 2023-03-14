@@ -21,8 +21,8 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/qa_angel/checklist)
-- [Test-Cases](https://github.com/qa_angel/test-cases)
-- [Bug-Reports](https://github.com/qaaangel/qa_angel/blob/299403a43133bc3d420edc609a2fada9c7f40cf1/assets/BUG_REPORTS.pdf)
+- [Test Cases](https://github.com/qa_angel/test-cases)
+- [Bug Reports](https://github.com/qaaangel/qa_angel/blob/299403a43133bc3d420edc609a2fada9c7f40cf1/assets/BUG_REPORTS.pdf)
 - [SQL Queries](https://github.com/qa_angel/SQL)
 - [Postman Collections](https://github.com/qa_angel/postman)
 
