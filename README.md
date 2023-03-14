@@ -24,7 +24,7 @@
 - [Test Cases](https://github.com/qaaangel/qa_angel/blob/aeaf2c225efeae4355a28d977eb687bb8dcfe019/assets/TEST_CASES.pdf)
 - [Bug Reports](https://github.com/qaaangel/qa_angel/blob/299403a43133bc3d420edc609a2fada9c7f40cf1/assets/BUG_REPORTS.pdf)
 - [Testing Types](https://github.com/qaaangel/qa_angel/blob/aeaf2c225efeae4355a28d977eb687bb8dcfe019/assets/TESTING_ATM.pdf)
-- [Requirement Analysis](https://github.com/qaaangel/qa_angel/blob/aeaf2c225efeae4355a28d977eb687bb8dcfe019/assets/REQUIREMENT_ANALYSIS.pdf)
+- [Requirement Analysis](https://github.com/qaaangel/qa_angel/blob/bb45db959c908589436aac9d8b51e1e618e8b30d/assets/REQUIREMENT_ANALYSIS.pdf)
 - [Test Summary Report](https://github.com/qaaangel/qa_angel/blob/aeaf2c225efeae4355a28d977eb687bb8dcfe019/assets/Test_Summary_Report_BrainWake.pdf)
 - [SQL Queries](https://github.com/qa_angel/SQL)
 - [Postman Collections](https://github.com/qa_angel/postman)
