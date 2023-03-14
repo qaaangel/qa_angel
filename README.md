@@ -26,7 +26,7 @@
 - [Testing Types](https://github.com/qaaangel/qa_angel/blob/aeaf2c225efeae4355a28d977eb687bb8dcfe019/assets/TESTING_ATM.pdf)
 - [Requirement Analysis](https://github.com/qaaangel/qa_angel/blob/bb45db959c908589436aac9d8b51e1e618e8b30d/assets/REQUIREMENT_ANALYSIS.pdf)
 - [Test Summary Report](https://github.com/qaaangel/qa_angel/blob/aeaf2c225efeae4355a28d977eb687bb8dcfe019/assets/Test_Summary_Report_BrainWake.pdf)
-- 
+
 
 ### Follow Me
 
