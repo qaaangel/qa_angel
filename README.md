@@ -22,7 +22,7 @@
 
 - [Checklists](https://github.com/qa_angel/checklist)
 - [Test-Cases](https://github.com/qa_angel/test-cases)
-- [Bug-Reports]("https://github.com/qaaangel/qa_angel/blob/299403a43133bc3d420edc609a2fada9c7f40cf1/assets/BUG_REPORTS.pdf")
+- [Bug-Reports](https://github.com/qaaangel/qa_angel/blob/299403a43133bc3d420edc609a2fada9c7f40cf1/assets/BUG_REPORTS.pdf)
 - [SQL Queries](https://github.com/qa_angel/SQL)
 - [Postman Collections](https://github.com/qa_angel/postman)
 
@@ -31,5 +31,4 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/oleksandra-angel/)
 
 
-## bug-reports
-https://docs.google.com/viewer?url=${https://github.com/qaaangel/qa_angel/blob/299403a43133bc3d420edc609a2fada9c7f40cf1/assets/BUG_REPORTS.pdf}
+
