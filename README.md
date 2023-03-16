@@ -16,6 +16,8 @@
 ![Header](https://img.shields.io/badge/Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/AE-090909?style=for-the-badge&logo=adobeaftereffects&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Wordpress-090909?style=for-the-badge&logo=wordpress&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=4aa73c)
 
 
 ### Testing Documentation
